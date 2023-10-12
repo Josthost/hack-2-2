@@ -1,0 +1,24 @@
+header {
+    height: 170px;
+    background-color: #93B5C9;
+}
+
+div{
+    height: 250px;
+    background-color: #AB2849;
+    margin: 0 0 20px 0;
+}
+section {
+    float: left;
+    width: 80%;
+    height: 150px;
+    background-color: #AB2849;
+    margin: 0 0 20px 0;
+}
+footer {
+    clear: both;
+    height: 100px;
+    width: 95%;
+    margin: 0 2.5% 10px 2.5%;
+    background-color: #AB2849;
+}
